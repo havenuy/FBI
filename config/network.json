@@ -1,9 +1,9 @@
 {
     "Delta Green": {
         "serverAddress": "111.222.3.4",
-        "serverName": "Delta Green",
+        "serverName": "TOP SECRET//Special Access Program - DELTA GREEN//",
         "iconName": "triangle-png-42398.png",
-        "terminalID": "Delta Green",
+        "terminalID": "R-Cell",
         "defaultUser": "",
         "randomSeed": true,
 
@@ -14,8 +14,8 @@
         "userList": {
             "debug": {
                 "id": "ROGER",
-                "password": "WILCO",
-                "userName": "ROGER",
+                "password": "doyouhearthepeoplesing",
+                "userName": "Agent ROGER",
                 "mail": {
                     "1": {
                         "from": "ALPHONSE",
