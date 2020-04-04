@@ -3,9 +3,9 @@
         "serverAddress": "111.222.3.4",
         "serverName": "TOP SECRET//Special Access Program - DELTA GREEN//",
         "iconName": "triangle-png-42398.png",
-        "terminalID": "R-Cell",
-        "defaultUser": "",
-        "randomSeed": true,
+        "terminalID": "DeltaGreen",
+        "defaultUser": "guest",
+        "randomSeed": false,
 
         "serverFiles": {
             "1": ["f.txt", "foobar"]
