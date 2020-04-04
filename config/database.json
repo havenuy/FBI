@@ -1,23 +1,23 @@
 {
     "1": {
-        "id": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox",
+        "id": "TCainwright",
+        "password": "boxers",
+        "userName": "Cainwright, Thomas",
         "mail": {
             "1": {
-                "from": "Traveller",
-                "title": "Do not Open",
-                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                "from": "MARCUS",
+                "title": "Operation ALICE",
+                "body": "Washington Square Park. 1645H. 10 AUG. Bring flowers."
             },
             "2": {
-                "from": "Software",
-                "title": "undefined",
-                "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+                "from": "Jackson",
+                "title": "Psych Evaluation Reschedule",
+                "body": "Hello Agent Cartwright, this is to remind you that your Psych Evaluation has been moved to next week on the 15th. 5pm at Room 502. Don't be late this time. -Dr. Evangeline Jackson"
             },
             "a": {
-                "from": "Josephus A. Miller",
-                "title": "Contrato n22",
-                "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+                "from": "Miller",
+                "title": "Catching Up",
+                "body": "Hey Tom, let's catch up tonight at Fox's? I still owe you that drink from Shanghai."
             }
         }
     },
