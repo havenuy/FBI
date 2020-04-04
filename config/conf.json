@@ -1,9 +1,9 @@
 {
-    "year": "2377",
+    "year": "1995",
     "serverAddress": "127.0.0.1",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
-    "defaultUser": "anonymous",
-    "randomSeed": true
+    "serverName": "Federal Bureau of Investigation - New York Field Office",
+    "iconName": "fbi.png",
+    "terminalID": "fbi",
+    "defaultUser": "user",
+    "randomSeed": false
 }
